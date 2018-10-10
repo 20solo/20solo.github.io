@@ -1,17 +1,14 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
-
-# Google Analytics
-google_analytics: UA—XXXXXXXX-X
+title:          20solo
+description:    "solo roleplaying adventures"
+url:            "https://20solo.github.io"
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Sarah Wood
+  url:          https://20solo.github.io
+  email:        heysarahwood@gmail.com
+  
 
 # Build settings
 markdown:       kramdown
